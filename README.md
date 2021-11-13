@@ -6,5 +6,5 @@
 Скриншоты выполненной работы 
 ```
 ![1](https://i.ibb.co/qJZhJCd/2021-11-14-004838.png "1")
-![2](https://i.ibb.co/cy7XzwT/Screenshot-1.png "2")
+![2](https://i.ibb.co/q7tZ57F/2021-11-14-004951.png "2")
 ![3](https://i.ibb.co/SvnDwdQ/2021-11-14-005116.png "3")
